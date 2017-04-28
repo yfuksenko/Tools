@@ -1,1 +1,1 @@
-This is a style to highlight AWS CloudFormation syntax in Notepad++
+This is a user defined language to highlight AWS CloudFormation syntax in Notepad++
