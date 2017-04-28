@@ -1,6 +1,6 @@
 <NotepadPlus>
 <!--
-made by yfuksenk. Check at https://github.com/yfuksenk/AWS/ for new version
+Check at https://github.com/yfuksenko/Tools/CloudFormation/NPP for new version
 -->
     <UserLang name="CloudFormation-JSON" ext="template cfn" udlVersion="2.1">
         <Settings>
